@@ -18,5 +18,5 @@ Sentiment analysis is the process of automatically determining the emotional ton
 
 * Access the Streamlit app in your web browser (https://movie-review-app.streamlit.app/).
 * Enter a movie review in the provided text box.
-* Click the "Predict Sentiment" button.
+* Click the "Submit Review" button.
 * The app will display the predicted sentiment (positive or negative) of the review.
